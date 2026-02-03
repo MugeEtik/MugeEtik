@@ -15,11 +15,6 @@ I believe that a great QA is also a great Git master. I follow and document prof
 - **Languages:** JavaScript, Spanish (B1 Level) 🇪🇸
 - **Tools:** Git, GitHub, VS Code, Postman, Requestly, TestRail, Jira, (Coming soon!)
 - **Operating Systems:** Working efficiently on Windows with PowerShell and Git Bash.
-
-### ☕ About Me
-- 🐕 I enjoy long walks with my dog.
-- ♟️ Science-fiction enthusiast.
-- ☕ I prefer my coffee plain and simple. No sugar, just code!
 ---
 *“Testing is not about finding bugs, it's about the confidence we have in our code.”*
 

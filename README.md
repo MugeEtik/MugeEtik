@@ -24,7 +24,7 @@ I am deeply committed to self-development and exploring the world through differ
 - **Intellectual Exploration:** I am an active participant in various reading and discussion groups, ranging from **Jungian psychology** and **Tolstoy's philosophy** to **Art History (Gombrich)**.
 - **Nature & Ecology:** I enjoy deep-diving into ecological literature (like *The Revolution of Plants* and *The Hidden Life of Trees*) through the "Yeşil Çember" nature readings.
 - **Cinema & Art:** A film enthusiast who is a member of the movie watching club on MUBI. also follows creative artistic paths such as "The Artist's Way".
-- **Culture & Language:**driven by a strong affinity for Hispanic culture and a goal to relocate to Málaga.
+- **Culture & Language:**driven by a strong affinity for Spanish culture.
 
 ### 🤖 Future & Tech
 - **Future Enthusiast:** I am a keen follower of **AI, Humanoid Robots, and AGI** developments. I am fascinated by how these technologies will shape our future and the evolution of human-machine interaction.

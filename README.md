@@ -1,34 +1,39 @@
 # Hi, I'm Müge! 👋 (aka MayBells)
 
-Welcome to my testing world! I am a **Software QA Automation Engineer Candidate** with a background in genetics and a passion for lifelong learning who loves exploring the depths of web automation and software quality. I believe that a great QA is shaped not only by code but by a broad perspective on science, art, and technology.
+Welcome! I am a **Software QA Automation Engineer** with a background in genetics and clinical research. I’m building hands-on experience in software testing and automation, with a focus on clear test documentation and reliable workflows.
 
-### 🛠️ Current Focus
-- **Cypress Mastery:** Building a comprehensive [Cypress Fundamentals Guidebook](https://github.com/MugeEtik/Cypress-Guidebook-byMugeEtik).
-- **QA Automation:** Actively developing my skills in E2E testing and automation workflows.
+## 🛠️ Current Focus
+- Improving my Cypress UI and API automation projects
+- Building a practical [Cypress Fundamentals Guidebook](https://github.com/MugeEtik/Cypress-Guidebook-byMugeEtik)
+- Practicing JavaScript, Git, and CI workflows
+- Exploring AI agents to support QA and portfolio work
 
-### 📚 Learning Journey & Methodologies
-I believe that a great QA is also a great Git master. I follow and document professional workflows:
-- **Git Strategy:** Implementing professional version control methodologies (Check out my detailed [Git Mastery on Notion](https://qa-workspace.notion.site/QA-Git-Mastery-Version-Control-for-Testing-Workflows-2b2cfd95040b80c7ab44c4a5fa92a0d6)).
+## 📚 Testing Foundations
+- **ISTQB-aligned training:** Completed in-depth training covering software testing principles, test design techniques, test documentation, and defect reporting.
+- **Test documentation:** Test plans, test scenarios, test cases, and bug reports
+- **Version control:** Documenting Git workflows for QA in my [Git Mastery guide on Notion](https://qa-workspace.notion.site/QA-Git-Mastery-Version-Control-for-Testing-Workflows-2b2cfd95040b80c7ab44c4a5fa92a0d6)
 
-### 🛠️ Technical Toolbox
-- **Testing:** Cypress (E2E, UI Automation)
-- **Languages:** JavaScript, Spanish (B1 Level) 🇪🇸
-- **Tools:** Git, GitHub, VS Code, Postman, Requestly, TestRail, Jira, (Coming soon!)
-- **Operating Systems:** Working efficiently on Windows with PowerShell and Git Bash.
+## 🛠️ Technical Toolbox
+- **Testing:** Manual testing, E2E UI and API testing, test documentation
+- **Automation:** Cypress (UI and API), JavaScript
+- **Performance testing:** Artillery
+- **Tools:** Jira, TestRail, Git, GitHub, VS Code, Postman, Requestly.
+- **Environment:** Windows, PowerShell, Git Bash
+
+## Selected Work
+- [Cypress Fundamentals Guidebook](https://github.com/MugeEtik/Cypress-Guidebook-byMugeEtik)
+- [Manual testing project](https://github.com/MugeEtik/TaskPro_Project_Muge)
+- [Kitapsepeti Cypress Automation project](https://github.com/MugeEtik/Automation_Project)
+- [Cypress POM_Test-Automation_lessons](https://github.com/MugeEtik/goit_cypress-automation)
+
 ---
 *“Testing is not about finding bugs, it's about the confidence we have in our code.”*
 
-### 🌍 Beyond the Screen (Interests & Growth)
-I am deeply committed to self-development and exploring the world through different lenses:
-
-- **Intellectual Exploration:** I am an active participant in various reading and discussion groups, ranging from **Jungian psychology** and **Tolstoy's philosophy** to **Art History (Gombrich)**.
-- **Nature & Ecology:** I enjoy deep-diving into ecological literature (like *The Revolution of Plants* and *The Hidden Life of Trees*) through the "Yeşil Çember" nature readings.
-- **Cinema & Art:** A film enthusiast who is a member of the movie watching club on MUBI. also follows creative artistic paths such as "The Artist's Way".
-- **Culture & Language:**driven by a strong affinity for Spanish culture.
-
-### 🤖 Future & Tech
-- **Future Enthusiast:** I am a keen follower of **AI, Humanoid Robots, and AGI** developments. I am fascinated by how these technologies will shape our future and the evolution of human-machine interaction.
-- **Gaming:** I am an old-gamer immersive simulators and survival games.
+## 🌍 A Little More About Me (Interests & Growth)
+Deeply committed to self-development and exploring the world through different lenses:
+- Enjoying biology, cinema, art, philosophy, mythology, reading groups. Choir member. Spanish learner (B1).
+- Following developments in AI, humanoid robots, and AGI. Exploring how AI agents can support my personal projects.
+- Curious about how these technologies may shape the future of human-machine interaction.
 
 ---
 *“Precision in science, creativity in art, and curiosity in technology.”*

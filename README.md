@@ -1,6 +1,7 @@
-# Hi, I'm Müge! 👋 (aka MayBells)
+# Welcome 👋 I'm Müge Etik (aka MayBells)
 
-Welcome! I am a **Software QA Automation Engineer** with a background in genetics and clinical research. I’m building hands-on experience in software testing and automation, with a focus on clear test documentation and reliable workflows.
+**Software QA Automation Engineer**
+With a background in genetics and clinical research; I’m developing hands-on skills in software testing and automation, with a focus on clear test documentation and reliable workflows.
 
 ## 🛠️ Current Focus
 - Improving my Cypress UI and API automation projects
@@ -17,7 +18,7 @@ Welcome! I am a **Software QA Automation Engineer** with a background in genetic
 - **Testing:** Manual testing, E2E UI and API testing, test documentation
 - **Automation:** Cypress (UI and API), JavaScript
 - **Performance testing:** Artillery
-- **Tools:** Jira, TestRail, Git, GitHub, VS Code, Postman, Requestly.
+- **Tools:** Jira, TestRail, Git, GitHub, VS Code, Postman, Requestly
 - **Environment:** Windows, PowerShell, Git Bash
 
 ## Selected Work

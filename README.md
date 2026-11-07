@@ -1,6 +1,7 @@
 # Welcome 👋 I'm Müge Etik (aka MayBells)
 
 **Software QA Automation Engineer**
+
 With a background in genetics and clinical research; I’m developing hands-on skills in software testing and automation, with a focus on clear test documentation and reliable workflows.
 
 ## 🛠️ Current Focus
